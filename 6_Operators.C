@@ -19,7 +19,7 @@ int main(){
 
     // 2. Assignment
     // = (equal sign)
-    int a = 10;
+    int a = 15;
 
     a += 1;
     a -= 1;

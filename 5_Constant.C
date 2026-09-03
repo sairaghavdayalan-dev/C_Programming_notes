@@ -23,26 +23,26 @@
 // }
 
 
-// #include <stdio.h>
-
-// int main() {
-//     char name[] = "Disk";
-//     int age = 5;
-
-//     printf("Hello I'm %s. My age is %d.\n", name, age);
-
-//     return 0;
-// }
-
-
-
 #include <stdio.h>
 
-int main(){
+int main() {
+    char name[] = "Disk";
+    int age = 5;
 
-    float sum = (float) 7 / 2;
-    printf("%f \n", sum);
-
+    printf("Hello I'm %s. My age is %d.\n", name, age);
 
     return 0;
 }
+
+
+
+// #include <stdio.h>
+
+// int main(){
+
+//     float sum = (float) 7 / 2;
+//     printf("%f \n", sum);
+
+
+//     return 0;
+// }
